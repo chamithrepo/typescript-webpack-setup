@@ -1,12 +1,10 @@
 {
   "name": "typescript-webpack-setup",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
   "main": "dist/bundle.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server",
     "build": "webpack"
   },
   "keywords": [
